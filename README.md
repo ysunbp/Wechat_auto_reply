@@ -1,4 +1,4 @@
-# Wechat_auto_reply
+# Wechat autoreply
 This is a developing wechat autoreply script. Nowaday, more and more people spend their life on social networking, wechat is an important app we
 use to communicate with other people. However, unlike many other software, wechat do not have an autoreplying function for users to automatically
 reply to friends' messages when they leave. This is the initiative I develop this wechat autoreplying script.
